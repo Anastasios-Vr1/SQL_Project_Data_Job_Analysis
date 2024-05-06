@@ -20,6 +20,15 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 - **Excel:** Useful for data analysis, data cleaning, removing duplicates, table creation and generation of basic & informative charts and graphs.
 
+# The Data
+
+The dataset used for this project was sourced during 2023 from job postings collected daily from Google’s search results, totaling approximately 6,500 jobs per day. These postings primarily focused on data science-type roles from around the globe. The inception and creation of the accompanying app stemmed from Luke Barrouse. In the [live app](https://datanerd.tech/About), the job postings were sent through an NLP pipeline and then aggregated daily to identify top skills and median salaries. [Luke Barrouse](https://datanerd.tech/About) was the mastermind behind this very useful tool for Data Science Nerds. For a sample of the data, you can [check out Kaggle.](https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search)
+
+### The ERD
+The Entity-Relationship Diagram (ERD) helps us visualize the structure and relationships between the differet tables in this database. You can see below that we have 4 major tables of which "job_postings_fact" is a fact table and the other 3 "skills_job_dim", "skills_dim", "company_dim" are dimentional tables that will help in filtering and grouping data down the road.
+
+![alt text](<assets/Data model schema.png>)
+
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
