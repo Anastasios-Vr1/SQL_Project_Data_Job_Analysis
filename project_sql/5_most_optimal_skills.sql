@@ -84,8 +84,19 @@ ORDER BY
 LIMIT 25;
 
 /*
-Here's a breakdown of the most optimal skills for Data Analysts in 2023: 
--Database Technologies: SQL and Excel continue to be foundational skills, with demand counts of 398 and 256 respectively. Moreover, proficiency in cloud-based platforms like Snowflake, Azure, and AWS is increasingly valued, reflecting the industry's shift towards cloud-based data management solutions. The average salaries for these technologies range from $82,576 to $97,431, indicating their enduring importance in facilitating data storage and analysis tasks.
-- Business Intelligence and Visualization Tools: Tableau and Power BI are indispensable tools in the data analyst arsenal, with demand counts of 230 and 110 respectively. These tools empower analysts to transform complex datasets into actionable insights through intuitive visualizations. With average salaries around $99,288 and $97,431 respectively, Tableau and Power BI are pivotal in aiding decision-making processes and driving business intelligence initiatives forward.
-- Programming Languages: Python and R remain highly sought after, boasting demand counts of 236 and 148 respectively. While their popularity underscores their versatility in data analysis tasks, competitive markets yield average salaries of $101,397 and $100,499, reflecting the abundance of skilled professionals proficient in these languages.
+Here's a breakdown of the most optimal skills for Data Analysts in 2023:
+
+-Database Technologies: SQL and Excel continue to be foundational skills, with demand counts of 398 and 256 respectively.
+Moreover, proficiency in cloud-based platforms like Snowflake, Azure, and AWS is increasingly valued, reflecting the industry's shift 
+towards cloud-based data management solutions. The average salaries for these technologies range from $82,576 to $97,431, indicating 
+their enduring importance in facilitating data storage and analysis tasks.
+
+- Business Intelligence and Visualization Tools: Tableau and Power BI are indispensable tools in the data analyst arsenal, 
+with demand counts of 230 and 110 respectively. These tools empower analysts to transform complex datasets into actionable insights through 
+intuitive visualizations. With average salaries around $99,288 and $97,431 respectively, Tableau and Power BI are pivotal in aiding decision-making 
+processes and driving business intelligence initiatives forward.
+
+- Programming Languages: Python and R remain highly sought after, boasting demand counts of 236 and 148 respectively. While their popularity underscores 
+their versatility in data analysis tasks, competitive markets yield average salaries of $101,397 and $100,499, reflecting the abundance of skilled professionals 
+proficient in these languages.
 */
