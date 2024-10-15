@@ -1,4 +1,6 @@
-# Introduction
+# Data Jobs Analysis Project
+<img src="assets/job_market.png">
+
 📊Embark on a journey into the dynamic data job market! Centered around data analyst roles, this project delves into 💰 top-paying jobs, 🔥 in-demand skills, and the intersection where high demand 📈 aligns with generous salaries in the realm of data analytics.
 
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
